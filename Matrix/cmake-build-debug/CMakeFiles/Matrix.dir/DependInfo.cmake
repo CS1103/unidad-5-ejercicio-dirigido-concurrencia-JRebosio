@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/POO2/Matrix/MatrixConcurrency.cpp" "C:/POO2/Matrix/cmake-build-debug/CMakeFiles/Matrix.dir/MatrixConcurrency.cpp.obj"
-  "C:/POO2/Matrix/MatrixSync.cpp" "C:/POO2/Matrix/cmake-build-debug/CMakeFiles/Matrix.dir/MatrixSync.cpp.obj"
-  "C:/POO2/Matrix/main.cpp" "C:/POO2/Matrix/cmake-build-debug/CMakeFiles/Matrix.dir/main.cpp.obj"
+  "C:/POO2/unidad-5-ejercicio-dirigido-concurrencia-JRebosio/Matrix/MatrixConcurrency.cpp" "C:/POO2/unidad-5-ejercicio-dirigido-concurrencia-JRebosio/Matrix/cmake-build-debug/CMakeFiles/Matrix.dir/MatrixConcurrency.cpp.obj"
+  "C:/POO2/unidad-5-ejercicio-dirigido-concurrencia-JRebosio/Matrix/MatrixSync.cpp" "C:/POO2/unidad-5-ejercicio-dirigido-concurrencia-JRebosio/Matrix/cmake-build-debug/CMakeFiles/Matrix.dir/MatrixSync.cpp.obj"
+  "C:/POO2/unidad-5-ejercicio-dirigido-concurrencia-JRebosio/Matrix/main.cpp" "C:/POO2/unidad-5-ejercicio-dirigido-concurrencia-JRebosio/Matrix/cmake-build-debug/CMakeFiles/Matrix.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "MSVC")
 

@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-C:/POO2/Matrix/MatrixConcurrency.h
+C:/POO2/unidad-5-ejercicio-dirigido-concurrencia-JRebosio/Matrix/MatrixConcurrency.h
 iostream
 -
 future
@@ -18,17 +18,17 @@ vector
 fstream
 -
 
-C:/POO2/Matrix/MatrixSync.h
+C:/POO2/unidad-5-ejercicio-dirigido-concurrencia-JRebosio/Matrix/MatrixSync.h
 iomanip
 -
 iostream
 -
 
-C:/POO2/Matrix/main.cpp
+C:/POO2/unidad-5-ejercicio-dirigido-concurrencia-JRebosio/Matrix/main.cpp
 iostream
 -
 MatrixSync.h
-C:/POO2/Matrix/MatrixSync.h
+C:/POO2/unidad-5-ejercicio-dirigido-concurrencia-JRebosio/Matrix/MatrixSync.h
 MatrixConcurrency.h
-C:/POO2/Matrix/MatrixConcurrency.h
+C:/POO2/unidad-5-ejercicio-dirigido-concurrencia-JRebosio/Matrix/MatrixConcurrency.h
 

@@ -20,8 +20,6 @@ public:
     T** matrix;
 
 
-
-
     matrixconcurrency(const string& s) {
         ifstream file(s);
 
@@ -79,7 +77,7 @@ public:
     void prints() {
         for (int row = 0; row < n; row++) {
             for (int column = 0; column < m; column++)
-                cout << setw(5) << matrix[row][column];
+                cout << setw(6) << matrix[row][column];
             cout << "\n";
         }
     }
