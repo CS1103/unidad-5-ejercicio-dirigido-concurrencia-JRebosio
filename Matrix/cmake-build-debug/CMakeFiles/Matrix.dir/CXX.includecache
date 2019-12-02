@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/POO2/Matrix/MatrixConcurrency.h
+iostream
+-
+future
+-
+thread
+-
+vector
+-
+fstream
+-
+
+C:/POO2/Matrix/MatrixSync.h
+iomanip
+-
+iostream
+-
+
+C:/POO2/Matrix/main.cpp
+iostream
+-
+MatrixSync.h
+C:/POO2/Matrix/MatrixSync.h
+MatrixConcurrency.h
+C:/POO2/Matrix/MatrixConcurrency.h
+
